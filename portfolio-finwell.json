@@ -1,0 +1,143 @@
+{
+  "name": "Finwell Williams",
+  "label": "Snr Network Engineer",
+  "image_path": "portfolio_media/finwell.jpg",
+  "contact": {
+    "email": "finwell.williams@gmail.com",
+    "phone": "0737812214",
+    "location": "Wellington, Western Cape, South Africa"
+  },
+  "summary": "Enthusiastic and knowledgeable individual with 10 years experience in networking. Possesses the necessary tools and determination needed to resolve, plan design, and configure networking solutions. Equipped\nwith a proactive attitude, a strong work ethic and a big commitment to keep up to date with the latest technologies.",
+  "base_url": "https://findiesel.github.io",
+  "social_links": [
+    {
+      "label": "Github",
+      "url": "https://github.com/findiesel",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Mweb",
+      "position": "Technical Specialist (Helpdesk)",
+      "url": "https://www.mweb.co.za/",
+      "start_date": "March 2008",
+      "end_date": "January 2015",
+      "highlights": [
+        "Provide telephonic and remote user support",
+        "Configure and install ADSL routers, 3G modems, VOIP phones and softphones as well as dialup for residential users",
+        "Configure and Manage Cisco routers (Wireless and non- wireless) for business clients",
+        "Attend to walk-in customers",
+        "Email setup",
+        "Identify training needs",
+        "Liaise with 3rd party supplier for product support",
+        "Provided technical e-mail support"
+      ]
+    },
+    {
+      "company": "Frogfoot Networks",
+      "position": "Jnr Network/ Support Engineer",
+      "url": "https://www.frogfoot.com/",
+      "start_date": "January 2015",
+      "end_date": "February 2018",
+      "highlights": [
+        "Provide telephonic and remote user",
+        "Liaise with 3rd party suppliers for faults, ADSL, Diginet,Fibre, Microwave",
+        "Monitor clients and core network services using various nms platforms (Cacti, Iris, Smokeping).",
+        "Manage Fortigate firewall for business clients",
+        "Configure and Install Billion, Mikrotik and Zyxel routers"
+      ]
+    },
+    {
+      "company": "Frogfoot Networks",
+      "position": "Snr Network Engineer",
+      "url": "https://www.frogfoot.com/",
+      "start_date": "February 2018",
+      "end_date": "Current",
+      "highlights": [
+        "Install, Provision and maintain Metro Ethernet network infrastructure",
+        "Perform hardware / software upgrades on networking hardware using industry best practices",
+        "Provide high level product support and assist NOC with resolving complex problems",
+        "Identify risks in network design and capacity planning",
+        "Lead and participate in technical as well as non-technical meetings",
+        "Create and maintain documents for network configuration and network mapping.",
+        "Participate in after hours support",
+        "Ensure monitoring platforms deliver network visibility for monitoring uptime",
+        "Attend project workshops and define project deliverables for achieving business objectives"
+      ]
+    }
+  ],
+  "Areas of Expertise": [
+    "Experienced working with Cisco routers and switches (IOS)",
+    "Experienced working other vendors like (Extreme Networks, Mikrotik, Ciena, Calix, Ubiquity, Hawei and Juniper)",
+    "Working understanding of MPLS and Metro Ethernet protocols (VPLS, VPWS, EAPS, QinQ, etc)",
+    "Working knowledge of routing protocols (RIP, OSPF, EIGRP, OSPF, BGP)"
+  ],
+  "projects": [
+    {
+      "title": "DFA PON rollout",
+      "summary": "Install of Calix E7-2 OLTs for mass pon deployment"
+    },
+    {
+      "title": "XGS PON rollout",
+      "summary": "Install of Calix E7-2 OLTs for XGS PON mass pon deployment"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Rekenaarskool Boland",
+      "location": "1 Baring Str,Worcester, Western Cape",
+      "courses": [
+        "1 Year I.T Diploma M.O.S (Microsoft Office Specialist) (2004)",
+        "1 Year Computer Technician/ A+ (2005)"
+      ],
+      "achievements": [
+        "Pass M.O.S (Microsoft Office Specialist) with Distinction",
+        "Selected as Student Assistant (M.O.S 2005)"
+      ]
+    },
+    {
+      "institution": "Torque IT",
+      "location": "1 Baring Str,Worcester, Western Cape",
+      "courses": [
+        "ICND1 & ICND2 (Interconnecting Cisco Networking Devices) - 2014"
+      ]
+    },
+    {
+      "other": [
+        "Pass CCNA exam",
+        "Pass CCNP exam (CSCO12622830)",
+        "Pass MTCNA exam",
+        "Pass JNCIA exam (JPR00290660)",
+        "Pass JNCIS-SP exam"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python 3.x, Flask",
+      "proficiency_label": "Intermediate"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Afrikaans",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional Working Proficiency"
+    }
+  ],
+  "references": [
+    {
+      "name": "Steven Mey",
+      "Relation": "Service Manager(Frogfoot)"
+    },
+    {
+      "name": "Brendan de Jager",
+      "Relation": "Provisioning Manager (Frogfoot)"
+    }
+  ]
+}
+
