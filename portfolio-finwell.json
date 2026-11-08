@@ -18,20 +18,21 @@
   ],
   "work_experience": [
     {
-      "company": "Mweb",
-      "position": "Technical Specialist (Helpdesk)",
-      "url": "https://www.mweb.co.za/",
-      "start_date": "March 2008",
-      "end_date": "January 2015",
+      "company": "Frogfoot Networks",
+      "position": "Snr Network Engineer",
+      "url": "https://www.frogfoot.com/",
+      "start_date": "February 2018",
+      "end_date": "Current",
       "highlights": [
-        "Provide telephonic and remote user support",
-        "Configure and install ADSL routers, 3G modems, VOIP phones and softphones as well as dialup for residential users",
-        "Configure and Manage Cisco routers (Wireless and non- wireless) for business clients",
-        "Attend to walk-in customers",
-        "Email setup",
-        "Identify training needs",
-        "Liaise with 3rd party supplier for product support",
-        "Provided technical e-mail support"
+        "Install, Provision and maintain Metro Ethernet network infrastructure",
+        "Perform hardware / software upgrades on networking hardware using industry best practices",
+        "Provide high level product support and assist NOC with resolving complex problems",
+        "Identify risks in network design and capacity planning",
+        "Lead and participate in technical as well as non-technical meetings",
+        "Create and maintain documents for network configuration and network mapping.",
+        "Participate in after hours support",
+        "Ensure monitoring platforms deliver network visibility for monitoring uptime",
+        "Attend project workshops and define project deliverables for achieving business objectives"
       ]
     },
     {
@@ -49,21 +50,20 @@
       ]
     },
     {
-      "company": "Frogfoot Networks",
-      "position": "Snr Network Engineer",
-      "url": "https://www.frogfoot.com/",
-      "start_date": "February 2018",
-      "end_date": "Current",
+      "company": "Mweb",
+      "position": "Technical Specialist (Helpdesk)",
+      "url": "https://www.mweb.co.za/",
+      "start_date": "March 2008",
+      "end_date": "January 2015",
       "highlights": [
-        "Install, Provision and maintain Metro Ethernet network infrastructure",
-        "Perform hardware / software upgrades on networking hardware using industry best practices",
-        "Provide high level product support and assist NOC with resolving complex problems",
-        "Identify risks in network design and capacity planning",
-        "Lead and participate in technical as well as non-technical meetings",
-        "Create and maintain documents for network configuration and network mapping.",
-        "Participate in after hours support",
-        "Ensure monitoring platforms deliver network visibility for monitoring uptime",
-        "Attend project workshops and define project deliverables for achieving business objectives"
+        "Provide telephonic and remote user support",
+        "Configure and install ADSL routers, 3G modems, VOIP phones and softphones as well as dialup for residential users",
+        "Configure and Manage Cisco routers (Wireless and non- wireless) for business clients",
+        "Attend to walk-in customers",
+        "Email setup",
+        "Identify training needs",
+        "Liaise with 3rd party supplier for product support",
+        "Provided technical e-mail support"
       ]
     }
   ],
