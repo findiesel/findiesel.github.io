@@ -175,11 +175,7 @@
 
                   {% if project.technologies %}
                     <h4>Technologies</h4>
-                    <ul>
-                      {% for technology in project.technologies %}
-                        <li>{{ technology }}</li>
-                      {% endfor %}
-                    </ul>
+                    <p>{{ project.technologies | join(', ') }}</p>
                   {% endif %}
 
                   {% if project.highlights %}
