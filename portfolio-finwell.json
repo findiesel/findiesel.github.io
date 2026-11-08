@@ -75,6 +75,30 @@
   ],
   "projects": [
     {
+      "title": "U-Frog – Multi-Vendor Network Automation & Service Assurance Platform",
+      "summary": "Conceptualised, designed and co-developed using AI-assisted software development. A Python/Flask-based network engineering platform developed for Frogfoot's fibre network operations.",
+      "key_capabilities": [
+        "Multi-vendor integration across Extreme Networks, Ciena, Calix, Huawei, SmartOLT and Ubiquiti.",
+        "Automated network provisioning and configuration generation.",
+        "Configuration auditing and validation across network infrastructure.",
+        "NETCONF/YANG integration for Ciena SAOS10.",
+        "OLT and subscriber service investigation and troubleshooting.",
+        "PostgreSQL-backed network inventory, service mapping and audit history.",
+        "Role-based access control and approval workflows."
+      ],
+      "technologies": [
+        "Python 3",
+        "Flask",
+        "PostgreSQL",
+        "SQLAlchemy",
+        "NETCONF",
+        "YANG",
+        "REST APIs",
+        "Netmiko",
+        "ncclient"
+      ]
+    },
+    {
       "title": "DFA PON rollout",
       "summary": "Install of Calix E7-2 OLTs for mass pon deployment"
     },
@@ -115,7 +139,7 @@
   ],
   "skills": [
     {
-      "name": "Python 3.x, Flask",
+      "name": "Python 3.x, Flask – Network Automation & Application Development",
       "proficiency_label": "Intermediate"
     }
   ],

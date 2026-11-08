@@ -146,6 +146,7 @@
             </section>
           {% endif %}
 
+
           {% if projects %}
             <section>
               <h2 class="section-heading">Projects</h2>
@@ -158,12 +159,37 @@
                       {{ project.title }}
                     {% endif %}
                   </h3>
-                  {% if project.summary %}<p>{{ project.summary }}</p>{% endif %}
-                  {% if project.highlights %}
+
+                  {% if project.summary %}
+                    <p>{{ project.summary }}</p>
+                  {% endif %}
+
+                  {% if project.key_capabilities %}
+                    <h4>Key Capabilities</h4>
                     <ul>
-                      {% for highlight in project.highlights %}<li>{{ highlight }}</li>{% endfor %}
+                      {% for capability in project.key_capabilities %}
+                        <li>{{ capability }}</li>
+                      {% endfor %}
                     </ul>
                   {% endif %}
+
+                  {% if project.technologies %}
+                    <h4>Technologies</h4>
+                    <ul>
+                      {% for technology in project.technologies %}
+                        <li>{{ technology }}</li>
+                      {% endfor %}
+                    </ul>
+                  {% endif %}
+
+                  {% if project.highlights %}
+                    <ul>
+                      {% for highlight in project.highlights %}
+                        <li>{{ highlight }}</li>
+                      {% endfor %}
+                    </ul>
+                  {% endif %}
+
                   {% if project.images %}
                     <div class="gallery main-gallery">
                       {% for img in project.images %}
@@ -181,6 +207,7 @@
               {% endfor %}
             </section>
           {% endif %}
+
 
           {% if volunteer_experience %}
             <section>
