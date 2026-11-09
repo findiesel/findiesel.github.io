@@ -11,6 +11,11 @@
   "base_url": "https://findiesel.github.io",
   "social_links": [
     {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/finwell-williams-45b84273/",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
       "label": "Github",
       "url": "https://github.com/findiesel",
       "svg_path": "img/github.svg"
@@ -69,7 +74,7 @@
   ],
   "Areas of Expertise": [
     "Experienced working with Cisco routers and switches (IOS)",
-    "Experienced working other vendors like (Extreme Networks, Mikrotik, Ciena, Calix, Ubiquity, Hawei and Juniper)",
+    "Experienced working other vendors like (Extreme Networks, Mikrotik, Ciena, Calix, Ubiquity, Huawei and Juniper)",
     "Working understanding of MPLS and Metro Ethernet protocols (VPLS, VPWS, EAPS, QinQ, etc)",
     "Working knowledge of routing protocols (RIP, OSPF, EIGRP, OSPF, BGP)"
   ],
@@ -156,7 +161,7 @@
   "references": [
     {
       "name": "Steven Mey",
-      "Relation": "Service Manager(Frogfoot)"
+      "Relation": "Service Manager"
     },
     {
       "name": "Brendan de Jager",
